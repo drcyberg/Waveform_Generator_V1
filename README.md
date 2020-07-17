@@ -101,6 +101,10 @@ This module described here is based on ADS9850, a CMOS, 125MHz, and Complete DDS
 
 ---
 
+### Thingiverse: [Link](https://www.thingiverse.com/thing:4544577 "Link")
+
+---
+
 ### If you want to support me: [Donate](https://www.paypal.me/Kunee82 "Donate")
 
 ---
