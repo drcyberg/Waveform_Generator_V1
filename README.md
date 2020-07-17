@@ -30,7 +30,7 @@ This module described here is based on ADS9850, a CMOS, 125MHz, and Complete DDS
 - DC power input connector (DC 9V-12V (500mAh))
 - Power switch
 - Sine and Square BNC output connectors
-- Atmega328P based
+- Atmega328P chip based
 - 1,8 TFT Display (ST7735)
 - 2x rotary encoders (to Sine and Square)
 
