@@ -1,0 +1,29 @@
+Solid Edge STL fájlformátumba mentése
+Dátum: péntek,július 17,2020 09:36de.
+Forrásfájl:C:\Users\italpont\Desktop\waveform_generator\cad\frame.par
+Forrás rendszer: SOLID EDGE
+
+Hardver:
+Processzor: Intel(R) Pentium(R) CPU 2020M @ 2.40GHz
+Operációs rendszer: Windows 10 Professional
+Memória mérete: 5,88 GB
+
+Szoftver Információ:
+Parasolid verzió: 32.0.186
+PSBodyshop Verzió: 32.0.127
+Solid Edge verzió: 220.00.08.004 x64
+
+STL exportálás beállításai:
+Kimeneti fájlformátum:BINARY
+Megjelenített alkatrészek kiírása:Kikapcsolva
+szerkezeti beállítások: Monolithic
+Mértékegység kiíratása:Millimeter
+Tûrés érték kiíratása:0,001000
+Tûrés típus kiíratása:Fine
+Felület sík bezárt szögének kiíratása:0,523599
+
+Fordítás folyamata:
+Lépés 1 / 2 parasolid információk begyûjtése...
+Létrehozott STL fájlok száma : 1
+Fordítási folyamat befejezõdött
+Fordítás idõtartama:00 : 00 : 00
