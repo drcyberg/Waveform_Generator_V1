@@ -26,8 +26,8 @@ This module described here is based on ADS9850, a CMOS, 125MHz, and Complete DDS
 ### Extra Additionals:
 
 - Reset button
-- ICSP header (Programming interface)
-- DC power input connector (DC 9V-12V (500mAh))
+- ICSP, UART headers (Programming interface)
+- Power input jack connector (DC 9V-12V (500mAh))
 - Power switch
 - Sine and Square BNC output connectors
 - Atmega328P chip based
