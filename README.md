@@ -51,7 +51,6 @@ This module described here is based on ADS9850, a CMOS, 125MHz, and Complete DDS
 ![](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/3.jpg)
 ![](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/2.jpg)
 ![](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/1.jpg)
-![](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/Assembled.jpg)
 ![](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/1khz_si.jpg)
 ![](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/1khz_sq.jpg)
 ![](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/1mhz_si.jpg)
@@ -70,6 +69,8 @@ This module described here is based on ADS9850, a CMOS, 125MHz, and Complete DDS
 ---
 
 ### 3D Models:
+
+![](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/Assembled.jpg)
 
 - [Base](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/stl/base.stl "Base")
 - [Frame](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/stl/frame.stl "Frame")
