@@ -33,3 +33,40 @@ This module described here is based on ADS9850, a CMOS, 125MHz, and Complete DDS
 
 ---
 
+### Samples:
+
+![](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/3.jpg)
+![](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/2.jpg)
+![](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/1.jpg)
+![](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/Assembled.jpg)
+![](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/1khz_si.jpg)
+![](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/1khz_sq.jpg)
+![](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/1mhz_si.jpg)
+![](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/1mhz_sq.jpg)
+
+---
+
+### Schematic: [Download](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/waveform_generator.pdf "Download")
+
+![](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/waveform_generator-1.jpg)
+
+---
+
+### PCB Gerber file: [Download](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/manufacturing/wfg_v1.zip "Download")
+
+---
+
+### 3D Models:
+
+- [Base](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/stl/base.stl "Base")
+- [Frame](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/stl/frame.stl "Frame")
+- [Stand](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/stl/stand.stl "Stand")
+- [Top](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/stl/top.stl "Top")
+
+---
+
+### If you want to support me: [Donate](https://www.paypal.me/Kunee82 "Donate")
+
+---
+
+### Have a nice day!
