@@ -71,6 +71,13 @@ This module described here is based on ADS9850, a CMOS, 125MHz, and Complete DDS
 
 ---
 
+### How to flash:
+
+- [Guide](https://www.arduino.cc/en/Guide/ArduinoISP "Guide")
+- [Tutorial](https://www.arduino.cc/en/tutorial/arduinoISP "Tutorial")
+
+---
+
 ### PCB Gerber file: [Download](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/manufacturing/wfg_v1.zip "Download")
 
 ---
