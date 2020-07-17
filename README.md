@@ -16,10 +16,23 @@ This module described here is based on ADS9850, a CMOS, 125MHz, and Complete DDS
 - 32-Bit Frequency Tuning Word
 - Simplified Control Interface: Parallel Byte or Serial Loading Format
 - Phase Modulation Capability
-- +3.3 V or +5 V Single Supply Operation
+- +3.3 V or +5 V Single Supply Operation (ADS9850 Module)
 - Low Power: 380 mW @ 125 MHz (+5 V)
 - Low Power: 155 mW @ 110 MHz (+3.3 V)
 - Power-Down Function
+
+---
+
+### Extra Additionals:
+
+- Reset button
+- ICSP header (Programming interface)
+- DC power input connector (DC 9V-12V (500mAh))
+- Power switch
+- Sine and Square BNC output connectors
+- Atmega328P based
+- 1,8 TFT Display (ST7735)
+- 2x rotary encoders (to Sine and Square)
 
 ---
 
