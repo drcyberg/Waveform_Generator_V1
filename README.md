@@ -78,7 +78,7 @@ This module described here is based on ADS9850, a CMOS, 125MHz, and Complete DDS
 
 ---
 
-### BOM (Bill Of Materials): [Download](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/waveform_generator.xlsx "Link") or [View](https://sheet.zoho.eu/sheet/open/4giszd4cce01cc18e43eeb01cfa9d0c18318f "View")
+### BOM (Bill Of Materials): [Download](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/waveform_generator.xlsx "Link") or [View](https://docs.zoho.eu/sheet/published.do?rid=4giszd4cce01cc18e43eeb01cfa9d0c18318f "View")
 
 ---
 
