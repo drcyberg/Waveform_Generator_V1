@@ -28,7 +28,7 @@ This module described here is based on ADS9850, a CMOS, 125MHz, and Complete DDS
 - Reset button
 - ICSP, UART connection headers (programming interface)
 - Power input jack connector (DC 9V-12V (500mAh))
-- Power SPDT switch
+- Power SPDT Switch toggle
 - Sine and Square BNC output connectors
 - Based on Atmega328P chip
 - 1,8" TFT Display (ST7735) connection interface
