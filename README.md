@@ -98,7 +98,7 @@ This module described here is based on ADS9850, a CMOS, 125MHz, and Complete DDS
 
 ---
 
-### PCB Gerber file: [Download](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/manufacturing/wfg_v1.zip "Download")
+### PCB Gerber file: [Download](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/manufacturing/wfg_v1_1.zip "Download")
 
 ---
 
