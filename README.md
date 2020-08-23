@@ -33,7 +33,7 @@ This module described here is based on ADS9850, a CMOS, 125MHz, and Complete DDS
 - Based on Atmega328P chip
 - 1,8" TFT Display (ST7735) connection interface
 - 2x rotary encoder buttons (to Sine and Square)
-- Flashing mode slide switch
+- Flashing mode slide switch (V1.1)
 
 ---
 
