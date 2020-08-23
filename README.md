@@ -33,6 +33,13 @@ This module described here is based on ADS9850, a CMOS, 125MHz, and Complete DDS
 - Based on Atmega328P chip
 - 1,8" TFT Display (ST7735) connection interface
 - 2x rotary encoder buttons (to Sine and Square)
+- Flashing mode slide switch
+
+---
+
+### V1.1
+
+- Added slide switch for enable easier standalone flashing/debug mode with only DC 3,3V input power (support many [flashing USB keys](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20200810135246&SearchText=ftdi+usb "Aliexpress")), say Thee not necessary  any more external power
 
 ---
 
