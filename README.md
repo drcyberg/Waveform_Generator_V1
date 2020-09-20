@@ -111,6 +111,11 @@ This module described here is based on ADS9850, a CMOS, 125MHz, and Complete DDS
 - [Stand](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/stl/stand.stl "Stand")
 - [Top](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/stl/top.stl "Top")
 
+### Required other parts:
+
+- 4x M4 45mm screw
+- 4x M4 nut
+
 ---
 
 ### Thingiverse: [Link](https://www.thingiverse.com/thing:4544577 "Link")
