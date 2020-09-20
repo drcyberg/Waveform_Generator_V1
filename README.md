@@ -115,6 +115,8 @@ This module described here is based on ADS9850, a CMOS, 125MHz, and Complete DDS
 
 - 4x M4 45mm screw
 - 4x M4 nut
+- 4x M3 10mm screw
+- 4x M3 nut
 
 ---
 
