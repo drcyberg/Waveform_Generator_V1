@@ -40,7 +40,7 @@ This module described here is based on ADS9850, a CMOS, 125MHz, and Complete DDS
 ### V1.1
 
 - Added slide switch for enable easier standalone flashing/debug mode with only DC 5V input power (support many [flashing USB keys](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20200810135246&SearchText=ftdi+usb "Aliexpress")), say Thee not necessary  any more external power
-![](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/8.jpg)
+![](/pictures/8.jpg)
 
 ---
 
@@ -56,23 +56,23 @@ This module described here is based on ADS9850, a CMOS, 125MHz, and Complete DDS
 
 ### Samples:
 
-![](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/3.jpg)
-![](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/1.jpg)
-![](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/2.jpg)
-![](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/4.jpg)
-![](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/5.jpg)
-![](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/6.jpg)
-![](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/7.jpg)
-![](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/1khz_si.jpg)
-![](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/1khz_sq.jpg)
-![](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/1mhz_si.jpg)
-![](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/1mhz_sq.jpg)
+![](/pictures/3.jpg)
+![](/pictures/1.jpg)
+![](/pictures/2.jpg)
+![](/pictures/4.jpg)
+![](/pictures/5.jpg)
+![](/pictures/6.jpg)
+![](/pictures/7.jpg)
+![](/pictures/1khz_si.jpg)
+![](/pictures/1khz_sq.jpg)
+![](/pictures/1mhz_si.jpg)
+![](/pictures/1mhz_sq.jpg)
 
 ---
 
 ### Schematic: [Download](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/waveform_generator.pdf "Download")
 
-![](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/waveform_generator-1.jpg)
+![](/pictures/waveform_generator-1.jpg)
 
 ---
 
@@ -104,7 +104,7 @@ This module described here is based on ADS9850, a CMOS, 125MHz, and Complete DDS
 
 ### 3D Models:
 
-![](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/Assembled.jpg)
+![](/pictures/Assembled.jpg)
 
 - [Base](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/stl/base.stl "Base")
 - [Frame](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/stl/frame.stl "Frame")
