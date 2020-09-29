@@ -6,7 +6,7 @@
 
 This Waveform Generator is a Hungarian [DIY](https://en.wikipedia.org/wiki/Do_it_yourself "Wikipedia") prototype version Arbitrary Waveform Generators and described here is based on ADS9850, a CMOS, 125MHz, and Complete DDS Synthesizer. The AD9850 is a highly integrated device that uses advanced DDS technology coupled with an internal high speed, high performance, D/A converter and comparator, to form a complete digitally programmable frequency synthesizer and clock generator function. All the external components which are needed are integrated on the board and the designer don’t need to care more about the detailed design of ADS9850. The designer only needs to add the power and control signals to driver this module.
 
----
+ADS9850---
 
 ### Specifications:
 
@@ -90,11 +90,11 @@ This Waveform Generator is a Hungarian [DIY](https://en.wikipedia.org/wiki/Do_it
 
 ---
 
-### Manual: [Download](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/ad9850.pdf "Manual")
+### Manual (Chip): [Download](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/ad9850.pdf "Manual")
 
 ---
 
-### BOM (Bill Of Materials): [Download](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/waveform_generator.xlsx "Link") or [View](https://docs.zoho.eu/sheet/published.do?rid=4giszd4cce01cc18e43eeb01cfa9d0c18318f "View")
+### BOM (Bill Of Materials): [View](https://htmlpreview.github.io/?https://github.com/drcyberg/Waveform_Generator_V1/blob/master/bom/wfgbom.html "View")
 
 ---
 
