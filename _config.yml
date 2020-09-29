@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
-url: https://drcyberg.github.io/Waveform_Generator_V1/
-baseurl: /Waveform_Generator_V1
+title: MoonWalker V1.2
+description: This Waveform Generator is a Hungarian DIY prototype version Arbitrary Waveform Generators.
+show_downloads: false
