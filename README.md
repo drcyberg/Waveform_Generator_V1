@@ -37,13 +37,6 @@ ADS9850---
 
 ---
 
-### V1.1
-
-- Added slide switch for enable easier standalone flashing/debug mode with only DC 5V input power (support many [flashing USB keys](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20200810135246&SearchText=ftdi+usb "Aliexpress")), say Thee not necessary  any more external power
-![](/pictures/8.jpg)
-
----
-
 ### Applications:
 
 - [x] Frequency/Phase–Agile Sine-Wave Synthesis
@@ -51,6 +44,15 @@ ADS9850---
 - [x] Communications
 - [x] Digitally Controlled ADC Encode Generator
 - [x] Agile Local Oscillator Applications
+
+---
+
+### Changelog:
+
+### V1.1
+
+- Added slide switch for enable easier standalone flashing/debug mode with only DC 5V input power (support many [flashing USB keys](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20200810135246&SearchText=ftdi+usb "Aliexpress")), say Thee not necessary  any more external power
+![](/pictures/8.jpg)
 
 ---
 
