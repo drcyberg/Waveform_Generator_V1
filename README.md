@@ -4,9 +4,7 @@
 
 ### Description:
 
-This Waveform Generator is a Hungarian [DIY](https://en.wikipedia.org/wiki/Do_it_yourself "Wikipedia") prototype version Arbitrary Waveform Generators and described here is based on ADS9850, a CMOS, 125MHz, and Complete DDS Synthesizer. The AD9850 is a highly integrated device that uses advanced DDS technology coupled with an internal high speed, high performance, D/A converter and comparator, to form a complete digitally programmable frequency synthesizer and clock generator function. All the external components which are needed are integrated on the board and the designer don’t need to care more about the detailed design of ADS9850. The designer only needs to add the power and control signals to driver this module.
-
-ADS9850---
+This Waveform Generator is a Hungarian [DIY](https://en.wikipedia.org/wiki/Do_it_yourself "Wikipedia") prototype version Arbitrary Waveform Generators and described here is based on AD9850, a CMOS, 125MHz, and Complete DDS Synthesizer. The AD9850 is a highly integrated device that uses advanced DDS technology coupled with an internal high speed, high performance, D/A converter and comparator, to form a complete digitally programmable frequency synthesizer and clock generator function. All the external components which are needed are integrated on the board and the designer don’t need to care more about the detailed design of AD9850. The designer only needs to add the power and control signals to driver this module.
 
 ### Specifications:
 
@@ -16,7 +14,7 @@ ADS9850---
 - 32-Bit Frequency Tuning Word
 - Simplified Control Interface: Parallel Byte or Serial Loading Format
 - Phase Modulation Capability
-- +3.3 V or +5 V Single Supply Operation (ADS9850 Module)
+- +3.3 V or +5 V Single Supply Operation (AD9850 Module)
 - Low Power: 380 mW @ 125 MHz (+5 V)
 - Low Power: 155 mW @ 110 MHz (+3.3 V)
 - Power-Down Function
@@ -27,7 +25,7 @@ ADS9850---
 
 - Reset button
 - ICSP, UART connection headers (programming interface)
-- Power input jack connector (DC 9V-12V (500mAh))
+- Power input jack connector (DC 9V-12V ; 500mAh)
 - Power SPDT Switch toggle
 - Sine and Square BNC output connectors
 - Based on Atmega328P chip
