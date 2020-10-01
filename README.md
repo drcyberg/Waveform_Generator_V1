@@ -6,6 +6,8 @@
 
 This Waveform Generator is a Hungarian [DIY](https://en.wikipedia.org/wiki/Do_it_yourself "Wikipedia") prototype version Arbitrary Waveform Generators and described here is based on AD9850, a CMOS, 125MHz, and Complete DDS Synthesizer. The AD9850 is a highly integrated device that uses advanced DDS technology coupled with an internal high speed, high performance, D/A converter and comparator, to form a complete digitally programmable frequency synthesizer and clock generator function. All the external components which are needed are integrated on the board and the designer don’t need to care more about the detailed design of AD9850. The designer only needs to add the power and control signals to driver this module.
 
+![](/pictures/wfg_logo.jpg)
+
 ### Specifications:
 
 - Signal Frequency output range: 0-40MHz
