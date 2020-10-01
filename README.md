@@ -47,7 +47,7 @@ ADS9850---
 
 ---
 
-### Changelog:
+### Changelogs:
 
 ### V1.1
 
