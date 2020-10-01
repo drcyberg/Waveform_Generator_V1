@@ -80,8 +80,11 @@ ADS9850---
 
 ### Firmwares:
 
-- [Download](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/firmware/wfg_v1.hex "Firmware") (Without Bootloader)
-- [Download](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/firmware/wfg_v1_with_bootloader.hex "Firmware") (With Bootloader)
+- [Download](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/firmware/wfg_v1.hex "Firmware") (Without Bootloader)*
+- [Download](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/firmware/wfg_v1_with_bootloader.hex "Firmware") (With Bootloader)**
+
+*: - Development users
+**: - Normal users
 
 ---
 
