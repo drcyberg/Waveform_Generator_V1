@@ -49,6 +49,11 @@ This Waveform Generator is a Hungarian [DIY](https://en.wikipedia.org/wiki/Do_it
 
 ## Changelogs:
 
+### V1.2
+
+- Changed power SPDT switch toggle to sliding switch
+![](/pictures/9.jpg)
+
 ### V1.1
 
 - Added slide switch for enable easier standalone flashing/debug mode with only DC 5V input power (support many [flashing USB keys](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20200810135246&SearchText=ftdi+usb "Aliexpress")), say Thee not necessary  any more external power
