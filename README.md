@@ -105,7 +105,10 @@ This Waveform Generator is a Hungarian [DIY](https://en.wikipedia.org/wiki/Do_it
 
 ---
 
-## PCB Gerber file: [Download](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/manufacturing/wfg_v1_2.zip "Download")
+## PCB Gerber file:
+
+- [SPDT switch version](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/manufacturing/wfg_v1_1.zip "Download")
+- [Sliding switch version](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/manufacturing/wfg_v1_2.zip "Download")
 
 ---
 
