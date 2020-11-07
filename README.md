@@ -77,12 +77,6 @@ This Waveform Generator is a Hungarian [DIY](https://en.wikipedia.org/wiki/Do_it
 
 ---
 
-## Schematic: [Download](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/waveform_generator.pdf "Download")
-
-![](/pictures/waveform_generator-1.jpg)
-
----
-
 ## Firmwares:
 
 - [Without Bootloader](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/firmware/wfg_v1.hex "Firmware") (Development users)
@@ -94,10 +88,6 @@ This Waveform Generator is a Hungarian [DIY](https://en.wikipedia.org/wiki/Do_it
 
 - [Guide](https://www.arduino.cc/en/Guide/ArduinoISP "Guide")
 - [Tutorial](https://www.arduino.cc/en/tutorial/arduinoISP "Tutorial")
-
----
-
-## Manual (Chip): [Download](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/pictures/ad9850.pdf "Manual")
 
 ---
 
