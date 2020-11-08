@@ -64,10 +64,7 @@ This Waveform Generator is a Hungarian [DIY](https://en.wikipedia.org/wiki/Do_it
 ## Samples:
 
 ![](/pictures/samples.jpg)
-![](/pictures/1khz_si.jpg)
-![](/pictures/1khz_sq.jpg)
-![](/pictures/1mhz_si.jpg)
-![](/pictures/1mhz_sq.jpg)
+![](/pictures/samples2.jpg)
 
 ---
 
