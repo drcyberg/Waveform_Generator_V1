@@ -16,10 +16,11 @@ This Waveform Generator is a Hungarian [DIY](https://en.wikipedia.org/wiki/Do_it
 - 32-Bit Frequency Tuning Word
 - Simplified Control Interface: Parallel Byte or Serial Loading Format
 - Phase Modulation Capability
-- +3.3 V or +5 V Single Supply Operation (AD9850 Module)
-- Low Power: 380 mW @ 125 MHz (+5 V)
-- Low Power: 155 mW @ 110 MHz (+3.3 V)
+- +3.3V or +5V Single Supply Operation (AD9850 Module)
+- Low Power: 380mW @ 125 MHz (+5V)
+- Low Power: 155mW @ 110 MHz (+3.3V)
 - Power-Down Function
+- Power Supply Adapter: 8-12V 500mAh
 
 ---
 
@@ -28,7 +29,7 @@ This Waveform Generator is a Hungarian [DIY](https://en.wikipedia.org/wiki/Do_it
 - Reset button
 - DC socket
 - ICSP, UART connection headers (programming interface)
-- Power input jack connector (DC 9V-12V ; 500mAh)
+- DC Jack Socket
 - Power SPDT Switch toggle
 - Sine and Square BNC output connectors
 - Based on Atmega328P chip
