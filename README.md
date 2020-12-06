@@ -26,6 +26,7 @@ This Waveform Generator is a Hungarian [DIY](https://en.wikipedia.org/wiki/Do_it
 ## Extra Additionals:
 
 - Reset button
+- DC socket
 - ICSP, UART connection headers (programming interface)
 - Power input jack connector (DC 9V-12V ; 500mAh)
 - Power SPDT Switch toggle
