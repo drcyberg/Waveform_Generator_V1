@@ -20,7 +20,7 @@ This Waveform Generator is a Hungarian [DIY](https://en.wikipedia.org/wiki/Do_it
 - Low Power: 380mW @ 125 MHz (+5V)
 - Low Power: 155mW @ 110 MHz (+3.3V)
 - Power-Down Function
-- Power Supply Adapter: 8-12V 500mAh
+- Power Supply Adapter: 9-12V 500mAh
 
 ---
 
