@@ -91,7 +91,7 @@ This Waveform Generator is a Hungarian [DIY](https://en.wikipedia.org/wiki/Do_it
 ## PCB Gerber file: [Download](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/manufacturing/wfg_v1_2.zip "Download")
 
 - Dimensions: 95x80mm
-- Layers: 2
+- Layers: 2lv
 
 ---
 
