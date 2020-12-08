@@ -11,7 +11,7 @@ This Waveform Generator is a Hungarian [DIY](https://en.wikipedia.org/wiki/Do_it
 ## Specifications:
 
 - Signal Frequency output range: 0-40MHz
-- 4 Signal outputs: sine wave outputs and 2 square wave outputs
+- 4 Signal outputs: 2 sine wave outputs and 2 square wave outputs
 - DAC SFDR > 50 dB @ 40 MHz AOUT
 - 32-Bit Frequency Tuning Word
 - Simplified Control Interface: Parallel Byte or Serial Loading Format
