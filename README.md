@@ -65,6 +65,7 @@ This Waveform Generator is a Hungarian [DIY](https://en.wikipedia.org/wiki/Do_it
 
 ## Samples:
 
+![](/pictures/presentation.jpg)
 ![](/pictures/samples.jpg)
 ![](/pictures/samples2.jpg)
 
