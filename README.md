@@ -100,6 +100,7 @@ This Waveform Generator is a Hungarian [DIY](https://en.wikipedia.org/wiki/Do_it
 
 ## 3D Models:
 
+![](/pictures/wfg.gif)
 ![](/pictures/Assembled.jpg)
 
 - [Base](https://github.com/drcyberg/Waveform_Generator_V1/blob/master/stl/base.stl "Base")
